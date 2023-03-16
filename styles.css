@@ -144,19 +144,28 @@ h1 {
     border-color: none;
 }
 
-.sign-items {
+.sign-item {
     flex: 1;
 }
 
 .signs-text {
     text-align: left;
 }
+
 .signs-text p {
     color: #fff;
     opacity: 0.7;
     margin: 5px 30px 30px 50px;
 }
+
 h3 {
+    color: #fff;
+    font-family: 'Roboto' , arial;
+    padding: 0;
+    margin: 30px 0px 0px 50px;
+}
+
+.signs-button button{
     color: #fff;
     font-family: 'Roboto' , arial;
     border-color: #fff;
